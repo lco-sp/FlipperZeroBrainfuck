@@ -1,5 +1,7 @@
 # FlipperZeroBrainfuck
 
+## Forked for experimentation and customisation
+
 Brainfuck interpreter and editor for the F0.  
 Supports text inputs and outputs.  
 Blue LED indicates program is running.  
