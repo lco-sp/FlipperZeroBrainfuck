@@ -129,9 +129,9 @@ static void bf_dev_draw_callback(Canvas* canvas, void* _model) {
         dbOffset = (appDev->dataSize - 72);
     }
  
-    memset(dspLine0, 0x00, 25);
-    memset(dspLine1, 0x00, 25);
-    memset(dspLine2, 0x00, 25);
+    memset(dspLine0, 0x00, 21);
+    memset(dspLine1, 0x00, 21);
+    memset(dspLine2, 0x00, 21);
 
     int tpM = 0;
     int tp0 = 0;
